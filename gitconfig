@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = eyslermara@hotmail.com
+	name = Eysler Mara
